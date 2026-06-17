@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "ebcb9199bae3a513",
+    "type": "split",
+    "children": [
+      {
+        "id": "11a3d39193506099",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfa9c093165e62a8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Clases Practicas/DEmostraciones grafos.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "DEmostraciones grafos"
+            }
+          },
+          {
+            "id": "f96d57e4fa492223",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apuntes/Arboles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arboles"
+            }
+          },
+          {
+            "id": "62094fbd9d750723",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apuntes/Recorridos de Grafos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Recorridos de Grafos"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "50a733b478b29196",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a411b5ebb38c7eb1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Clases Teoricas/Teorica_arbol_handout.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Teorica_arbol_handout"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef1d9f8754920852",
+    "type": "split",
+    "children": [
+      {
+        "id": "246b71950a6b978c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5386a3e61ebc0f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6830cb49881e3a29",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b8d7802188ac0958",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1eaad289e8cc2ff9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b491f03eaa6e92a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "627ca7a0e8fba407",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Apuntes/Divide and conquer Clase teorica.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Divide and conquer Clase teorica"
+            }
+          },
+          {
+            "id": "b2ab9a68bec287bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Apuntes/Divide and conquer Clase teorica.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Divide and conquer Clase teorica"
+            }
+          },
+          {
+            "id": "d85335b4bbd0169e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "044d2b0fea5f5ea1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1f9e232f31070e09",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Apuntes/Divide and conquer Clase teorica.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Divide and conquer Clase teorica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a5386a3e61ebc0f3",
+  "lastOpenFiles": [
+    "Apuntes/Imagenes/Pasted image 20260616172731.png",
+    "Apuntes/Arboles.md",
+    "Clases Teoricas/Teorica_arbol_handout.pdf",
+    "Apuntes/Imagenes/Pasted image 20260616180253.png",
+    "Clases Practicas/DEmostraciones grafos.pdf",
+    "Apuntes/Demostraciones de Grafos.md",
+    "Apuntes/Imagenes/Pasted image 20260616173415.png",
+    "Apuntes/Recorridos de Grafos.md",
+    "Clases Practicas/ClaseRecorridos.pdf",
+    "Clases Practicas/AGM.pdf",
+    "Apuntes/Grafos.md",
+    "Apuntes/Imagenes/Pasted image 20260611114518.png",
+    "Clases Practicas/Clase Ori dp top-down.pdf",
+    "Clases Practicas/Clase Backtracking.pdf",
+    "Clases Practicas/Representación de grafos.pdf",
+    "Apuntes/Imagenes/Pasted image 20260611114956.png",
+    "Apuntes/Imagenes/Pasted image 20260611114812.png",
+    "Clases Practicas/Clase-pd-topdown-1eraParte.pdf",
+    "Clases Practicas/Clase_prac_01_Div_Conq.pdf",
+    "Apuntes/Imagenes/Pasted image 20260611104253.png",
+    "Clases Teoricas/Teorica_grafos_hadout.pdf",
+    "Apuntes/Imagenes/Pasted image 20260611112238.png",
+    "Apuntes/Imagenes/Pasted image 20260611112034.png",
+    "Apuntes/Imagenes/Pasted image 20260611104952.png",
+    "Apuntes/Greedy.md",
+    "Apuntes/Programacion Dinamica.md",
+    "Guias/GUIA 1 Resuelta D&C.md",
+    "Apuntes/Divide and conquer clases.md",
+    "Apuntes/Backtracking clases.md",
+    "Apuntes/Divide and conquer Clase practica.md",
+    "Welcome.md",
+    "GUias/Untitled.md"
+  ]
+}
