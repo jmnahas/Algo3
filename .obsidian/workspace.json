@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AGM.md",
+                "file": "Camino minimo en grafos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AGM"
+              "title": "Camino minimo en grafos"
             }
           }
         ]
@@ -28,15 +28,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f96d57e4fa492223",
+            "id": "08cd790cc65fd07c",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Clases Practicas/AGM.pdf"
+                "file": "Clases Teoricas/Camino MinimoP1.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "AGM"
+              "title": "Camino MinimoP1"
             }
           }
         ]
@@ -62,7 +62,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -192,34 +192,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
     }
   },
-  "active": "f96d57e4fa492223",
+  "active": "62094fbd9d750723",
   "lastOpenFiles": [
     "Clases Teoricas/Camino MinimoP1.pdf",
+    "Camino minimo en grafos.md",
+    "Pasted image 20260618152941.png",
+    "Pasted image 20260618150724.png",
+    "Apuntes/AGM.md",
+    "Apuntes/Imagenes/Pasted image 20260618112307.png",
     "Clases Teoricas/CAMINOMINIMOP2.pdf",
+    "Clases Practicas/ClaseRecorridos.pdf",
+    "Clases Practicas/DEmostraciones grafos.pdf",
+    "Clases Practicas/AGM.pdf",
     "Clases Teoricas/Camino MinimoP1",
     "Clases Practicas/Recorridos_Uno_A_Todos.pdf",
-    "AGM.md",
-    "Clases Practicas/AGM.pdf",
-    "Pasted image 20260618112307.png",
-    "Pasted image 20260618112255.png",
+    "Apuntes/Imagenes/Pasted image 20260618112255.png",
     "Clases Teoricas/AGM.pdf",
-    "Pasted image 20260618103818.png",
+    "Apuntes/Imagenes/Pasted image 20260618103818.png",
     "Apuntes/Recorridos de Grafos.md",
     "Clases Teoricas/Teorica_arbol_handout.pdf",
     "Algo3/Guias/practica_1_divide_conquer.pdf",
     "Algo3/Guias/GUIA 1 Resuelta D&C.md",
-    "Algo3/Guias",
-    "Algo3/Clases Teoricas/teorica20250825.pdf",
-    "Algo3/Clases Teoricas/teorica1_dyc.pdf",
     "Algo3/Apuntes/Recorridos de Grafos.md",
     "Algo3/Apuntes/Programacion Dinamica.md",
     "Algo3/Apuntes/Imagenes/Pasted image 20260616180253.png",
@@ -227,8 +229,6 @@
     "Algo3/Apuntes/Imagenes/Pasted image 20260616172731.png",
     "Algo3/Apuntes/Imagenes/Pasted image 20260611114956.png",
     "Algo3/Apuntes/Imagenes/Pasted image 20260611114812.png",
-    "Algo3/Apuntes/Imagenes/Pasted image 20260611114518.png",
-    "Algo3/Apuntes/Imagenes/Pasted image 20260611112238.png",
     "Algo3/Apuntes/Greedy.md",
     "Algo3/Apuntes/Grafos.md",
     "Algo3/Apuntes/Divide and conquer clases.md",
