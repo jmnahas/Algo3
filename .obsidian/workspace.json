@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bbc5303d2e0e8a1a",
+            "id": "62094fbd9d750723",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,12 +28,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a411b5ebb38c7eb1",
+            "id": "f96d57e4fa492223",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Clases Teoricas/AGM.pdf"
+                "file": "Clases Practicas/AGM.pdf"
               },
               "icon": "lucide-file-text",
               "title": "AGM"
@@ -62,7 +62,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -192,42 +192,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "a411b5ebb38c7eb1",
+  "active": "f96d57e4fa492223",
   "lastOpenFiles": [
+    "Clases Teoricas/Camino MinimoP1.pdf",
+    "Clases Teoricas/CAMINOMINIMOP2.pdf",
+    "Clases Teoricas/Camino MinimoP1",
+    "Clases Practicas/Recorridos_Uno_A_Todos.pdf",
     "AGM.md",
-    "Clases Teoricas/AGM.pdf",
-    "Apuntes/Arboles.md",
-    "Clases Practicas/AGN.pdf",
-    "Apuntes/Imagenes/Pasted image 20260616172731.png",
-    "Clases Teoricas/Teorica_arbol_handout.pdf",
-    "Apuntes/Imagenes/Pasted image 20260616180253.png",
-    "Clases Practicas/DEmostraciones grafos.pdf",
-    "Apuntes/Demostraciones de Grafos.md",
-    "Apuntes/Imagenes/Pasted image 20260616173415.png",
-    "Apuntes/Recorridos de Grafos.md",
-    "Clases Practicas/ClaseRecorridos.pdf",
     "Clases Practicas/AGM.pdf",
+    "Pasted image 20260618112307.png",
+    "Pasted image 20260618112255.png",
+    "Clases Teoricas/AGM.pdf",
+    "Pasted image 20260618103818.png",
+    "Apuntes/Recorridos de Grafos.md",
+    "Clases Teoricas/Teorica_arbol_handout.pdf",
+    "Algo3/Guias/practica_1_divide_conquer.pdf",
+    "Algo3/Guias/GUIA 1 Resuelta D&C.md",
+    "Algo3/Guias",
+    "Algo3/Clases Teoricas/teorica20250825.pdf",
+    "Algo3/Clases Teoricas/teorica1_dyc.pdf",
+    "Algo3/Apuntes/Recorridos de Grafos.md",
+    "Algo3/Apuntes/Programacion Dinamica.md",
+    "Algo3/Apuntes/Imagenes/Pasted image 20260616180253.png",
+    "Algo3/Apuntes/Imagenes/Pasted image 20260616173415.png",
+    "Algo3/Apuntes/Imagenes/Pasted image 20260616172731.png",
+    "Algo3/Apuntes/Imagenes/Pasted image 20260611114956.png",
+    "Algo3/Apuntes/Imagenes/Pasted image 20260611114812.png",
+    "Algo3/Apuntes/Imagenes/Pasted image 20260611114518.png",
+    "Algo3/Apuntes/Imagenes/Pasted image 20260611112238.png",
+    "Algo3/Apuntes/Greedy.md",
+    "Algo3/Apuntes/Grafos.md",
+    "Algo3/Apuntes/Divide and conquer clases.md",
+    "Algo3/Apuntes/Demostraciones de Grafos.md",
+    "Algo3/Apuntes/Backtracking clases.md",
+    "Algo3/Apuntes/Arboles.md",
+    "Algo3/AGM.md",
+    "Apuntes/Arboles.md",
+    "Apuntes/Demostraciones de Grafos.md",
     "Apuntes/Grafos.md",
-    "Apuntes/Imagenes/Pasted image 20260611114518.png",
-    "Clases Practicas/Clase Ori dp top-down.pdf",
-    "Clases Practicas/Clase Backtracking.pdf",
-    "Clases Practicas/Representación de grafos.pdf",
-    "Apuntes/Imagenes/Pasted image 20260611114956.png",
-    "Apuntes/Imagenes/Pasted image 20260611114812.png",
-    "Clases Practicas/Clase-pd-topdown-1eraParte.pdf",
-    "Apuntes/Imagenes/Pasted image 20260611104253.png",
-    "Apuntes/Imagenes/Pasted image 20260611112238.png",
-    "Apuntes/Imagenes/Pasted image 20260611112034.png",
-    "Apuntes/Imagenes/Pasted image 20260611104952.png",
     "Apuntes/Greedy.md",
     "Apuntes/Programacion Dinamica.md",
     "Guias/GUIA 1 Resuelta D&C.md",
