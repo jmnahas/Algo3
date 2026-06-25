@@ -11,32 +11,30 @@
             "id": "62094fbd9d750723",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Camino minimo en grafos.md",
-                "mode": "source",
-                "source": false
+                "file": "Clases Practicas/Recorridos_Uno_A_Todos.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Camino minimo en grafos"
+              "icon": "lucide-file-text",
+              "title": "Recorridos_Uno_A_Todos"
             }
           }
         ]
       },
       {
-        "id": "50a733b478b29196",
+        "id": "fc33e47b044e629b",
         "type": "tabs",
         "children": [
           {
-            "id": "08cd790cc65fd07c",
+            "id": "6f36e9ba5ea2a106",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Clases Teoricas/Camino MinimoP1.pdf"
+                "file": "Clases Practicas/DAGs y todos a todos.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Camino MinimoP1"
+              "title": "DAGs y todos a todos"
             }
           }
         ]
@@ -201,26 +199,35 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "62094fbd9d750723",
+  "active": "a5386a3e61ebc0f3",
   "lastOpenFiles": [
-    "Clases Teoricas/Camino MinimoP1.pdf",
-    "Camino minimo en grafos.md",
-    "Pasted image 20260618152941.png",
-    "Pasted image 20260618150724.png",
-    "Apuntes/AGM.md",
-    "Apuntes/Imagenes/Pasted image 20260618112307.png",
-    "Clases Teoricas/CAMINOMINIMOP2.pdf",
-    "Clases Practicas/ClaseRecorridos.pdf",
-    "Clases Practicas/DEmostraciones grafos.pdf",
-    "Clases Practicas/AGM.pdf",
-    "Clases Teoricas/Camino MinimoP1",
+    "Apuntes/DAGS Y TODOS A TODOS.md",
+    "Clases Practicas/DAGs y todos a todos.pdf",
+    "Apuntes/Imagenes/Pasted image 20260624121023.png",
     "Clases Practicas/Recorridos_Uno_A_Todos.pdf",
-    "Apuntes/Imagenes/Pasted image 20260618112255.png",
-    "Clases Teoricas/AGM.pdf",
-    "Apuntes/Imagenes/Pasted image 20260618103818.png",
+    "Apuntes/Camino minimo en grafos.md",
+    "Clases Practicas/DEmostraciones grafos.pdf",
+    "Clases Practicas/ClaseRecorridos.pdf",
+    "Clases Practicas/Clase-pd-topdown-1eraParte.pdf",
+    "Clases Practicas/Clase_prac_01_Div_Conq.pdf",
+    "Clases Practicas/Clase PD - Bottom Up.pdf",
+    "Clases Practicas/Clase Ori dp top-down.pdf",
+    "Clases Practicas/Clase Backtracking.pdf",
+    "Clases Practicas/AGM.pdf",
+    "Apuntes/AGM.md",
+    "Apuntes/Arboles.md",
+    "Apuntes/Backtracking clases.md",
+    "Apuntes/Demostraciones de Grafos.md",
+    "Apuntes/Divide and conquer clases.md",
+    "Apuntes/Grafos.md",
+    "Apuntes/Greedy.md",
+    "Apuntes/Programacion Dinamica.md",
     "Apuntes/Recorridos de Grafos.md",
-    "Clases Teoricas/Teorica_arbol_handout.pdf",
-    "Algo3/Guias/practica_1_divide_conquer.pdf",
+    "Apuntes/Imagenes/Pasted image 20260618150724.png",
+    "Apuntes/Imagenes/Pasted image 20260618152941.png",
+    "Apuntes/Imagenes/Pasted image 20260618112307.png",
+    "Apuntes/Imagenes/Pasted image 20260618112255.png",
+    "Apuntes/Imagenes/Pasted image 20260618103818.png",
     "Algo3/Guias/GUIA 1 Resuelta D&C.md",
     "Algo3/Apuntes/Recorridos de Grafos.md",
     "Algo3/Apuntes/Programacion Dinamica.md",
@@ -228,7 +235,6 @@
     "Algo3/Apuntes/Imagenes/Pasted image 20260616173415.png",
     "Algo3/Apuntes/Imagenes/Pasted image 20260616172731.png",
     "Algo3/Apuntes/Imagenes/Pasted image 20260611114956.png",
-    "Algo3/Apuntes/Imagenes/Pasted image 20260611114812.png",
     "Algo3/Apuntes/Greedy.md",
     "Algo3/Apuntes/Grafos.md",
     "Algo3/Apuntes/Divide and conquer clases.md",
@@ -236,14 +242,7 @@
     "Algo3/Apuntes/Backtracking clases.md",
     "Algo3/Apuntes/Arboles.md",
     "Algo3/AGM.md",
-    "Apuntes/Arboles.md",
-    "Apuntes/Demostraciones de Grafos.md",
-    "Apuntes/Grafos.md",
-    "Apuntes/Greedy.md",
-    "Apuntes/Programacion Dinamica.md",
     "Guias/GUIA 1 Resuelta D&C.md",
-    "Apuntes/Divide and conquer clases.md",
-    "Apuntes/Backtracking clases.md",
     "Apuntes/Divide and conquer Clase practica.md",
     "Welcome.md",
     "GUias/Untitled.md"

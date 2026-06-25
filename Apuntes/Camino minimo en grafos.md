@@ -30,3 +30,10 @@ Este resuelve el tema de las aristas de peso negativo, no el de ciclos de peso n
 Dijkstra (con cola de prioridad)|(O((V+E)\log V)
 Dijkstra (sin heap)-(O($V^2$)
 Bellman-Ford-(O($V * E$)
+
+
+### Ejercicios
+![[Pasted image 20260624121023.png]]
+Este por ejemplo se puede resolver con bfs, ya que las calles no tienen un peso sino ir de una esquina a otro tiene.
+Hacemos bfs desde todas las esquinas y nos vamos fijando cuales estan a mas de 5 de un nodo que tiene policias.
+Eso es muy complejo, tambien podemos hacerlo solo desde las esquinas que tienen policias eso va a ser menos costosso. pero la mejor solucion es hacer un nodo fantasma al grafo y lo conectamos a todos los policias, ya desde ahi podemos ver cuales estan a 6 cuadras, y esas estan desprotegidas.
