@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flujo.md",
+                "file": "Apuntes/Flujo.md",
                 "mode": "source",
                 "source": false
               },
@@ -216,15 +216,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "7faa4f38ef3959fd",
+  "active": "a5386a3e61ebc0f3",
   "lastOpenFiles": [
-    "Pasted image 20260625114349.png",
-    "Pasted image 20260625114323.png",
+    "Apuntes/Imagenes/Pasted image 20260625112645.png",
+    "Apuntes/Flujo.md",
+    "Apuntes/Imagenes/Pasted image 20260625114349.png",
+    "Apuntes/Imagenes/Pasted image 20260625114323.png",
     "Clases Teoricas/Flujo.pdf",
-    "Flujo.md",
-    "Pasted image 20260625112723.png",
-    "Pasted image 20260625112705.png",
-    "Pasted image 20260625112645.png",
+    "Apuntes/Imagenes/Pasted image 20260625112723.png",
+    "Apuntes/Imagenes/Pasted image 20260625112705.png",
     "Clases Practicas/Clase-pd-topdown-1eraParte.pdf",
     "Clases Practicas/DAGs y todos a todos.pdf",
     "Apuntes/DAGS Y TODOS A TODOS.md",
@@ -250,7 +250,6 @@
     "Apuntes/Imagenes/Pasted image 20260618152941.png",
     "Apuntes/Imagenes/Pasted image 20260618112307.png",
     "Apuntes/Imagenes/Pasted image 20260618112255.png",
-    "Apuntes/Imagenes/Pasted image 20260618103818.png",
     "Algo3/Guias/GUIA 1 Resuelta D&C.md",
     "Algo3/Apuntes/Recorridos de Grafos.md",
     "Algo3/Apuntes/Programacion Dinamica.md",
