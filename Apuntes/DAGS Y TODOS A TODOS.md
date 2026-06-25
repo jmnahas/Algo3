@@ -9,10 +9,9 @@ Y despues tenemos Dantzig, usa la misma complejidad y va haciendo como un bottom
 y de complejidad espacial ambos usan una matriz osea O($n^2$)
 
 ### Ejercicios Todos a Todos
-
-
-
-
+Aca esta el tip de que se puede correr n veces dijkstra O($n.m.log  n$) 
+O lo mismo con bellman ford O($n^2.m$)
+Y sino tenemos Johnson que es lo mismo que correr n veces Dijkstra pero corriendo una vez bellman ford al principio para ver ciclos negativos y esas cosas.
 ### Dags
 Un digrafo es un DAG si no tiene ciclos dirigidos
 Como puedo saber si un grafo es Dag? DFS o BFS
