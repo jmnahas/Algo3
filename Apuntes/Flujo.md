@@ -29,3 +29,40 @@ Una forma de mostrar eso es demostrar que los conjuntos de soluciones validas so
 En flujo suele ser comodo demostrar esto separando la ida y la vuelta.
 Para mostrar que B ⊆ A, queremos, para cada cada solucion valida f al modelo, tener una soluci´on equivalente a nuestro problema. Por ejemplo, si lo que buscabamos era la mayor cantidad de caminos disjuntos en mapa, tenemosque mostrar que dado un flujo f en nuestro modelo hay un conjunto de |f |caminos disjuntos en nuestro problema.
 Similarmente, para mostrar que A ⊆ B, tenemos que probar que para cadasolucion a nuestro problema podemos generar un flujo f de optimalidad equivalente.
+
+### Ejercicios
+Hay algunas cosas importantes a la hroa de encontrar flujo maixmo, que son:
+- Conservacion de flujo:En cada nodo la cantidad de flujo que entra debe ser igual a la que sale
+- Restriccion de capacidad:En cada nodo la cantidad de flujo que sale en las aristas tiene que ser menor a la capacidad maxima
+- El valor de flujo es el flujo neto que sale de S
+Un teorema que nos sirve es el de Max-Flow min-cut:Que quiere decir que el valor del flujo maximo es igual a la capacidad del corte minimo
+
+Ford fulkerson tiene un problema y es que puede no detenerse si las capacidades son irracionales. O($nmU$) U=Cap maxima
+En cambio edmonds y Karp no tiene esto. O($nm^2$)
+
+### Demos de flujo
+Tenemos que probar lo siguiente
+![[Pasted image 20260629103058.png]]
+![[Pasted image 20260629104459.png]]
+
+
+Algunas cosas piolas son lo de los caminos disjuntos, puedo ir sacando las aristas que no uso apra ver eso, osea solo lo recorro una vez para ver la cantidad de caminos disjuntos y con eso tengo el flujo maximo por ejemplo.
+Para los problemas de Corte minimo(ejemplo poner una minima cantidad de bloqueos en los nodos los cuales pasa bichitos por ejemplo) lo que se puede hacer es agregar una arista fantasma y un nodo fantasma.
+![[Pasted image 20260629114627.png]]
+Ya ahora que tengo esto asi puedo usar edmonds y karp o ford fulkerson y fijarme el flujo maximo.
+
+### Problemas de matching maximo
+![[Pasted image 20260629122246.png]]
+Un poco son asi, y con correr Ford fulkerson estamos(porque la capacidad maxima es 1).
+Despues deberia de anotar como son los nodos y arcos
+![[Pasted image 20260629122350.png]]
+Principalmente para la complejidad.
+![[Pasted image 20260629122440.png]]
+Y por ultimo completo bien piola.
+
+Resumiendo un pooc las diapos de flujo 1:
+La mayoria de los probelmas de flujo son de matching maximo y tienen que ver mas con el modelado que otra cosa, algunos trucos pueden ser hacer aristas en los nodos intermedios.
+
+Ej:Los que son de equipois y cant de fechas:
+La mayoria de veces nos van a pedir decirnos si es posible que el equipo gane para eso vamos a necesitar hacer que la capacidad maximo de las aristas sea pk(k es el equipo que queremos ver si gana)+ 2(o la cantiadda de puntos maximos por ganar).n(cantidad de partidos restantes). Y despues necesitamos algo asi.
+![[Pasted image 20260629123523.png]]

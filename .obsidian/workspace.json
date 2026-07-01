@@ -8,35 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f36e9ba5ea2a106",
+            "id": "67400ceb75b06196",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Apuntes/DAGS Y TODOS A TODOS.md",
-                "mode": "source",
-                "source": false
+                "file": "Guias/practica_1_divide_conquer.pdf"
               },
-              "icon": "lucide-file",
-              "title": "DAGS Y TODOS A TODOS"
-            }
-          },
-          {
-            "id": "7faa4f38ef3959fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apuntes/Flujo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Flujo"
+              "icon": "lucide-file-text",
+              "title": "practica_1_divide_conquer"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "896adb01c1e2d4aa",
@@ -46,12 +29,14 @@
             "id": "9acf0d4ad49b20e5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Clases Teoricas/Flujo.pdf"
+                "file": "Guias/GUIA 1 Resuelta D&C.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Flujo"
+              "icon": "lucide-file",
+              "title": "GUIA 1 Resuelta D&C"
             }
           }
         ]
@@ -77,7 +62,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -207,36 +192,42 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
     }
   },
   "active": "a5386a3e61ebc0f3",
   "lastOpenFiles": [
-    "Apuntes/Imagenes/Pasted image 20260625112645.png",
+    "Guias/Practica 6.pdf",
+    "Guias/Practica 3.pdf",
+    "Guias/Practica 5.pdf",
+    "Guias/Practica 4.pdf",
+    "Guias/Practica 2.pdf",
+    "Guias/practica_1_divide_conquer.pdf",
+    "Guias/GUIA 1 Resuelta D&C.md",
+    "Guias/guia1/ej8.py",
+    "Guias/guia1/ej6.py",
+    "Guias/guia1/ej5.py",
+    "Guias/guia1/EJ4.PY",
+    "Guias/guia1/ej3.py",
     "Apuntes/Flujo.md",
+    "Apuntes/Imagenes/Pasted image 20260629103058.png",
+    "Apuntes/Imagenes/Pasted image 20260629123523.png",
+    "Apuntes/Imagenes/Pasted image 20260629122440.png",
+    "Apuntes/Imagenes/Pasted image 20260629122350.png",
+    "Apuntes/Imagenes/Pasted image 20260629122246.png",
+    "Apuntes/Imagenes/Pasted image 20260629114627.png",
+    "Apuntes/Imagenes/Pasted image 20260629104459.png",
+    "Apuntes/DAGS Y TODOS A TODOS.md",
+    "Apuntes/Imagenes/Pasted image 20260625112645.png",
     "Apuntes/Imagenes/Pasted image 20260625114349.png",
     "Apuntes/Imagenes/Pasted image 20260625114323.png",
-    "Clases Teoricas/Flujo.pdf",
-    "Apuntes/Imagenes/Pasted image 20260625112723.png",
-    "Apuntes/Imagenes/Pasted image 20260625112705.png",
-    "Clases Practicas/Clase-pd-topdown-1eraParte.pdf",
-    "Clases Practicas/DAGs y todos a todos.pdf",
-    "Apuntes/DAGS Y TODOS A TODOS.md",
-    "Clases Practicas/Recorridos_Uno_A_Todos.pdf",
-    "Apuntes/Imagenes/Pasted image 20260624121023.png",
     "Apuntes/Camino minimo en grafos.md",
-    "Clases Practicas/DEmostraciones grafos.pdf",
-    "Clases Practicas/ClaseRecorridos.pdf",
-    "Clases Practicas/Clase_prac_01_Div_Conq.pdf",
-    "Clases Practicas/Clase PD - Bottom Up.pdf",
-    "Clases Practicas/Clase Ori dp top-down.pdf",
-    "Clases Practicas/Clase Backtracking.pdf",
     "Apuntes/AGM.md",
     "Apuntes/Arboles.md",
     "Apuntes/Backtracking clases.md",
@@ -246,10 +237,6 @@
     "Apuntes/Greedy.md",
     "Apuntes/Programacion Dinamica.md",
     "Apuntes/Recorridos de Grafos.md",
-    "Apuntes/Imagenes/Pasted image 20260618150724.png",
-    "Apuntes/Imagenes/Pasted image 20260618152941.png",
-    "Apuntes/Imagenes/Pasted image 20260618112307.png",
-    "Apuntes/Imagenes/Pasted image 20260618112255.png",
     "Algo3/Guias/GUIA 1 Resuelta D&C.md",
     "Algo3/Apuntes/Recorridos de Grafos.md",
     "Algo3/Apuntes/Programacion Dinamica.md",
@@ -260,7 +247,6 @@
     "Algo3/Apuntes/Backtracking clases.md",
     "Algo3/Apuntes/Arboles.md",
     "Algo3/AGM.md",
-    "Guias/GUIA 1 Resuelta D&C.md",
     "Apuntes/Divide and conquer Clase practica.md",
     "Welcome.md"
   ]
