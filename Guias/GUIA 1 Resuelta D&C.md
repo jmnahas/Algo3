@@ -178,9 +178,10 @@ O($n^2$)
 
 10- Aca es teo maestro pero no termina dominando f(n) sino lo otro y termina siendo n ^ log22 osea termina siendo O(n)
 
-11-
-
-12-
+11-Es maestro con F(n)=0
+O(n^log43)
+12- Lo mismo pero con F(n)=n
+O(n)
 ### EJ8:
 def maxSubArray(arr, inicio, fin):
 
